@@ -1,0 +1,4 @@
+*.sh text eol=lf
+*.so binary
+build/arm64-v8a/mwr_ext binary
+build/arm64-v8a/mwr_inject binary
